@@ -54,6 +54,10 @@
 		30AF91B01F57BA32003F653D /* Crivly */ = {
 			isa = PBXGroup;
 			children = (
+				30AF91C61F57D5CD003F653D /* More */,
+				30AF91C51F57D5C4003F653D /* Jobs */,
+				30AF91C41F57D5BB003F653D /* Catalog */,
+				30AF91C31F57D5B1003F653D /* MyCourses */,
 				30AF91B11F57BA33003F653D /* AppDelegate.swift */,
 				30AF91B31F57BA33003F653D /* ViewController.swift */,
 				30AF91B51F57BA33003F653D /* Main.storyboard */,
@@ -62,6 +66,34 @@
 				30AF91BD1F57BA33003F653D /* Info.plist */,
 			);
 			path = Crivly;
+			sourceTree = "<group>";
+		};
+		30AF91C31F57D5B1003F653D /* MyCourses */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = MyCourses;
+			sourceTree = "<group>";
+		};
+		30AF91C41F57D5BB003F653D /* Catalog */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Catalog;
+			sourceTree = "<group>";
+		};
+		30AF91C51F57D5C4003F653D /* Jobs */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Jobs;
+			sourceTree = "<group>";
+		};
+		30AF91C61F57D5CD003F653D /* More */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = More;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -299,6 +331,7 @@
 				30AF91C21F57BA33003F653D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
